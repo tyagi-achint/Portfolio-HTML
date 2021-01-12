@@ -1,0 +1,45 @@
+ <Body >   
+       <!--Nav Bar-->
+        <nav class="navbar navbar-expand-md bg-success ">
+            <div class="container mt-2 mb-2">
+              
+                <a id="home"  href="#" class="navbar-brand ">
+                  <i class="fas fa-home h3 text-dark"></i>
+                </a>
+                    <a href="#">
+                      <div class="collapse navbar-collapse flex-grow-0">
+                        <h3
+                          id="achint"
+                          class="my-auto font-weight-bold text-dark "
+                        >
+                          Achint Tyagi
+                        </h3>
+                      </div>
+                    </a>
+                    <a href="#" class="ml-auto mx-2">
+                      <button class="btn btn-dark ">
+                        Contact me
+                      </button>
+                    </a>
+                    <button 
+                     class="navbar-toggler"
+                     data-toggle="collapse"
+                     data-target="#collapseNav">              
+                      <span id="coffee" class="fas fa-coffee h2 text-dark"></span> 
+                    </button>
+                    <div class="collapse navbar-collapse flex-grow-0" id="collapseNav">
+                      <div align="center" class="navbar-nav">
+                        <a href="#" class="nav-item nav-link font-weight-bold text-dark h6 mr-1 my-auto ">
+                            <button class="btn btn-outline-light ml-auto">
+                                Blogs
+                              </button>
+                       </a> 
+                       <a href="#" class="nav-item nav-link font-weight-bold text-dark h6 mr-1 my-auto ">
+                        <button class="btn btn-outline-light ml-auto">
+                            Projects
+                          </button>
+                   </a> 
+                      </div>
+                    </div>
+             </div>
+  </nav>
