@@ -1,0 +1,55 @@
+        <!-- Recommendation stack -->
+        <div class="container-fluid my-3">
+          <div class="row text-center py-5 d-flex flex-nowrap overflow-auto recom">
+            <div class="col-12 col-md-4">
+              <div class="card shadow h-100">
+                <div class="bg-light card-body">
+                  <h4 class="card-text  font-weight-bold">
+                    He is a good engineer
+                  </h4>
+                  <p class="card-text text-secondary  font-weight-bold mb-0">Random guy 1</p>
+                  <p class="card-text text-secondary  font-weight-bold">
+                    CEO at ABC company
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-md-4">
+              <div class="card shadow h-100">
+                <div class="bg-light card-body">
+                  <h4 class="card-text  font-weight-bold">
+                    He is an excellent developer
+                  </h4>
+                  <p class="card-text text-secondary mb-0  font-weight-bold">Random guy 2</p>
+                  <p class="card-text text-secondary  font-weight-bold">
+                    Director at ABC company
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-md-4">
+              <div class="card shadow h-100">
+                <div class="bg-light card-body">
+                  <h4 class="card-text  font-weight-bold">He is a lazy person</h4>
+                  <p class="card-text text-secondary mb-0  font-weight-bold">Random guy 3</p>
+                  <p class="card-text text-secondary  font-weight-bold">
+                    Manager at ABC company
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-md-4">
+              <div class="card shadow h-100">
+                <div class="bg-light card-body">
+                  <h4 class="card-text font-weight-bold">
+                    He get's things done so quickly
+                  </h4>
+                  <p class="card-text text-secondary mb-0 font-weight-bold">Random guy 4</p>
+                  <p class="card-text text-secondary font-weight-bold">
+                    SDE at ABC company
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
