@@ -1,0 +1,75 @@
+   <!--Blogs...-->
+      <div class="w 100">
+        <div class="container text-center py-2 my-2">
+          <h1 class="font-weight-normal "> My 
+            <span class="text-success font-weight-bold">
+              Blogs
+            </span> 
+          </h1>
+          <div class="lead font-weight-normal ">
+            I share my views in these blogs.
+          </div>
+  
+          <div class="row my-3 pt-3">
+            <div class="col-12 col-md-4 my-2">
+              <div class="card shadow h-100">
+                <img
+                  class="card-img-top"
+                  src="https://storage.googleapis.com/unschool-portfolio-website/free-stock-image-2.jpg"
+                  alt="Free image"
+                 />
+                 <div class="card-body">
+                  <h4 class=" font-weight-bold card-title">
+                    Blog 1
+                  </h4>
+                  <p class="card-text">This is my Blog about...</p>
+                  <a href="#" class="stretched-link"></a>
+                 </div>
+              </div>
+            </div>
+  
+            <div class="col-12 col-md-4 my-2">
+              <div class="card shadow h-100 ">
+                <img
+                  class="card-img-top"
+                  src="https://storage.googleapis.com/unschool-portfolio-website/free-stock-image-3.jpg"
+                  alt="Free image"
+                 />
+                 <div class="card-body">
+                  <h4 class=" font-weight-bold card-title">
+                    Blog 2
+                  </h4>
+                  <p class="card-text">This is my Blog about...</p>
+                  <a href="#" class="stretched-link"></a>
+                 </div>
+              </div>
+            </div>
+              
+            <div class="col-12 col-md-4 my-2">
+              <div class="card shadow h-100">
+                <img
+                  class="card-img-top"
+                  src="https://storage.googleapis.com/unschool-portfolio-website/free-stock-image-1.jpg"
+                  alt="Free image"
+                 />
+                 <div class="card-body">
+                  <h4 class=" font-weight-bold card-title">
+                    Blog 3
+                  </h4>
+                  <p class="card-text">This is my Blog about...</p>
+                  <a href="#" class="stretched-link"></a>
+                 </div>
+              </div>
+            </div>            
+  
+           </div>
+          
+          <div class="my-3">
+           <a href="#" class="text-dark text-right">
+             <h5 class="font-weight-bold">
+              See my Blogs <i class="fas fa-arrow-right align-middle"></i>
+             </h5>
+           </a>
+         </div>
+       </div>
+      </div>     
