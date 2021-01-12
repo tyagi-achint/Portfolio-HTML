@@ -1,0 +1,40 @@
+     <!-- Footer section -->
+        <footer>
+            <div class="container-fluid text-center align-items-center  py-3"; style="background-color: black;">               
+                   <div class="col-12  ">
+                       <h2 class="text-light font-weight-bold py-3">Intrested in Working with me?</h2>
+                       <button class="btn btn-outline-success btn-lg font-weight-bold" >Let's Talk</button>
+                    </div>               
+                <div class="row  py-4" >
+                    <div class="col-12 col-md-4 py-3" >
+                        <h5 class="text-success font-weight-bold py-2">More Links</h5>
+                        <a href="#" class="text-light d-block">Blogs</a>
+                        <br>
+                        <a href="#" class="text-light d-block">Projects</a>
+                        <br>
+                        <a href="#" class="text-light d-block">Contact Me</a>
+                        <br>
+                        <a href="#" class="text-light">Write a Recommendation <i class="fab fa-angellist text-light" ></i></a>
+                    </div>
+                    <div class="col-12 col-md-4 pt-5 py-3">                    
+                         <p class="text-light font-weight-bold text-justify">                       
+                             "Creation and Destruction are attached. 
+                             If something dies, another thing takes birth
+                              and everything between the creation and destruction 
+                              is your journey of life.   ""                    
+                         </p>
+                     </div>
+                     <div class="col-12 col-md-4 py-3">
+                          <h5 class="text-success font-weight-bold py-2">Social</h5>
+                         <a href="#"> <i class="fas fa-envelope text-light d-block h1"></i></a>
+                         <a href="#"><i class="fab fa-twitter text-light d-block h1"></i></a>
+                          <a href="#"><i class="fab fa-linkedin text-light d-block h1"></i></a>
+                     </div>
+                </div>
+                     <div class="col-12 text-muted py-3">
+                        <p>Copyright © Achint Tyagi 2020</p>
+                     </div>    
+            </div>
+        </footer>
+    </Body>
+</html>
